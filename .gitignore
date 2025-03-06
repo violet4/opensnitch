@@ -1,3 +1,8 @@
 *.sock
 *.pyc
 *.profile
+ui/opensnitch/proto/ui_pb2.py
+ui/opensnitch/proto/ui_pb2_grpc.py
+daemon/ui/protocol/ui.pb.go
+daemon/ui/protocol/ui_grpc.pb.go
+ui/opensnitch/resources_rc.py

@@ -6,7 +6,6 @@ go 1.21
 
 require (
 	github.com/fsnotify/fsnotify v1.4.7
-	github.com/golang/protobuf v1.5.0
 	github.com/google/gopacket v1.1.19
 	github.com/google/nftables v0.2.0
 	github.com/google/uuid v1.3.0

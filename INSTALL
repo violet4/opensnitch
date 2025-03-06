@@ -1,0 +1,6 @@
+poetry install
+poetry run make
+cd ui
+poetry install
+poetry run bin/opensnitch-ui
+
